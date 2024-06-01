@@ -19,7 +19,7 @@ NutriWell aims to promote healthy living by offering personalized nutrition and 
 
 NutriWell is built using the following technologies:
 
-- **HTML5**: Used for structuring the content of the landing page.
+- **HTML5**: Used for structuring the content of the responsive landing page.
 - **CSS3**: Used for styling the elements and layout of the landing page.
 - **JavaScript**: Used for adding interactivity and dynamic behavior to the landing page.
 - **Bootstrap**: Utilized for responsive design and layout components.
